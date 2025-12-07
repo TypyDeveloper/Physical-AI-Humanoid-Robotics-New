@@ -1,0 +1,35 @@
+Create:
+
+Architecture sketch (voice-to-action pipeline, ROS 2 planning flow, perception → manipulation loop)
+
+Section structure
+
+Research approach
+
+Quality-validation plan
+
+Decisions needing documentation:
+
+Whisper vs. alternative ASR options
+
+LLM planning methods for ROS 2 (pipeline, constraints, safety)
+
+Vision model selection for object identification
+
+Manipulation strategy tradeoffs in simulation
+
+Testing strategy:
+
+Validate voice-command recognition
+
+Check plan correctness against acceptance criteria
+
+Verify navigation, obstacle avoidance, and object-manipulation success
+
+Technical details:
+
+Use research-concurrent workflow
+
+Follow APA citation rules from Constitution
+
+Organize by phases: Research → Foundation → Analysis → Synthesis

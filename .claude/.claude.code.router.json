@@ -1,0 +1,8 @@
+{
+  "defaultProvider": "claude",
+  "providers": {
+    "claude": true,
+    "openai": true,
+    "gemini": false
+  }
+}
